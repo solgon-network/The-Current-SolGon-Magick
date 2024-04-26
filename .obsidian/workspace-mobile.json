@@ -11,36 +11,24 @@
             "id": "e67c89694ec9abd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "ab758e9c37d50946",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "72/72 Angels.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "6b1ea47b1a7225f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "72/72 Angels.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -54,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f48824e06c0249be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Rituals/The Qabilistic.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Rituals/The Qabilistic.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Rituals/The Qabilistic.md"
           }
         }
       }
@@ -178,25 +154,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "f48824e06c0249be",
+  "active": "27a412f3f6c84414",
   "lastOpenFiles": [
-    "The Holy Bible/Untitled.md",
-    "The Holy Bible/Untitled.md",
-    "Rituals/The Qabilistic.md",
     "72/72 Angels.md",
-    "Rituals",
-    "The Holy Bible",
     "README.md",
-    "The Sacred Magic of Abramelin the Mage/The-Sacred-Magic-of-Abramelin-the-Mage-Book-1.pdf",
-    "72",
-    "solgonpr_sgnmain.sql.gz",
-    "The Sacred Magic of Abramelin the Mage/sacred_texts",
-    "The Sacred Magic of Abramelin the Mage/The-Sacred-Magic-of-Abramelin-the-Mage-Book-3.pdf",
-    "The Sacred Magic of Abramelin the Mage/The-Sacred-Magic-of-Abramelin-the-Mage-Book-2.pdf",
-    "LICENSE",
-    "The Sacred Magic of Abramelin the Mage"
+    "/The Holy Bible/The-Holy-Bible-King-James-Version.pdf",
+    "/README.md",
+    "/72/72 Angels.md",
+    "/_data/authors.yml",
+    "/_config.yml",
+    "72/Untitled database.md",
+    "Untitled.md",
+    "_drafts/post-draft.md",
+    "Rituals/The Qabilistic.md",
+    "talkmap.py",
+    "talkmap.ipynb",
+    "package.json",
+    "_teaching/2015-spring-teaching-2.md",
+    "_teaching/2014-spring-teaching-1.md",
+    "_talks/2014-03-01-talk-3.md",
+    "_talks/2014-02-01-talk-2.md",
+    "_talks/2013-03-01-tutorial-1.md",
+    "_talks/2012-03-01-talk-1.md",
+    "_sass/vendor/susy/susy/su/_validation.scss",
+    "_sass/vendor/susy/susy/su/_utilities.scss",
+    "_sass/vendor/susy/susy/su/_settings.scss",
+    "_sass/vendor/susy/susy/su/_grid.scss",
+    "_publications/2024-02-17-paper-title-number-4.md",
+    "_publications/2015-10-01-paper-title-number-3.md",
+    "_publications/2010-10-01-paper-title-number-2.md",
+    "_publications/2009-10-01-paper-title-number-1.md",
+    "_posts/2199-01-01-future-post.md",
+    "_posts/2015-08-14-blog-post-4.md",
+    "_posts/2014-08-14-blog-post-3.md",
+    "_posts/2013-08-14-blog-post-2.md",
+    "_posts/2012-08-14-blog-post-1.md",
+    "_portfolio/portfolio-1.md",
+    "_pages/terms.md",
+    "images/500x300.png",
+    "images/3953273590_704e3899d5_m.jpg",
+    "images/bio-photo-2.jpg",
+    "images/bio-photo.jpg",
+    "images/editing-talk.png",
+    "images/foo-bar-identity-th.jpg",
+    "images/foo-bar-identity.jpg",
+    "images/image-alignment-150x150.jpg",
+    "images/image-alignment-300x200.jpg",
+    "images/image-alignment-580x300.jpg"
   ]
 }
