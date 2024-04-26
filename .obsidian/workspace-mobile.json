@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27a412f3f6c84414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rituals/The Qabilistic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "72/72 Angels.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +138,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "72/72 Angels.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "72/72 Angels.md"
+            "file": "The Holy Bible/Untitled.md"
           }
         }
       }
@@ -157,10 +167,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8484d279d657b0b1",
+  "active": "bc8f50e3cdc6b781",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Rituals/The Qabilistic.md",
     "72/72 Angels.md",
+    "Rituals",
+    "The Holy Bible/Untitled.md",
     "The Holy Bible",
     "README.md",
     "The Sacred Magic of Abramelin the Mage/The-Sacred-Magic-of-Abramelin-the-Mage-Book-1.pdf",
