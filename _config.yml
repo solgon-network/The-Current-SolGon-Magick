@@ -38,14 +38,13 @@ author:
   pubmed           : 
   researchgate     : # URL
 
- & # Repositories and software development
+ # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
   github           : "solgon-network"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
+  stackoverflow    :
   # Social media
   bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
