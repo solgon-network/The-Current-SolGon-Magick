@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_teaching/2014-spring-teaching-1.md",
+                "file": "_posts/Thought Reincarnation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:category1",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "dd0154d5e3464eed",
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_teaching/2014-spring-teaching-1.md",
+            "file": "_posts/Thought Reincarnation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_teaching/2014-spring-teaching-1.md",
+            "file": "_posts/Thought Reincarnation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_teaching/2014-spring-teaching-1.md"
+            "file": "_posts/Thought Reincarnation.md"
           }
         }
       }
@@ -159,8 +159,9 @@
   },
   "active": "27a412f3f6c84414",
   "lastOpenFiles": [
-    "README.md",
     "_pages/about.md",
+    "_teaching/2014-spring-teaching-1.md",
+    "README.md",
     "Untitled.md",
     "The Sacred Magic of Abramelin the Mage/The-Sacred-Magic-of-Abramelin-the-Mage-Book-2.pdf",
     "The Sacred Magic of Abramelin the Mage/The-Sacred-Magic-of-Abramelin-the-Mage-Book-3.pdf",
@@ -182,7 +183,6 @@
     "talkmap.ipynb",
     "package.json",
     "_teaching/2015-spring-teaching-2.md",
-    "_teaching/2014-spring-teaching-1.md",
     "_talks/2014-03-01-talk-3.md",
     "_talks/2014-02-01-talk-2.md",
     "_talks/2013-03-01-tutorial-1.md",
