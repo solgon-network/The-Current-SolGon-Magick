@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: SolGon Network - The Current
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---

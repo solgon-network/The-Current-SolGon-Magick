@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Thought Reincarnation.md",
+                "file": "_pages/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "dd0154d5e3464eed",
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/Thought Reincarnation.md",
+            "file": "_pages/about.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/Thought Reincarnation.md",
+            "file": "_pages/about.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/Thought Reincarnation.md"
+            "file": "_pages/about.md"
           }
         }
       }
@@ -159,6 +159,8 @@
   },
   "active": "27a412f3f6c84414",
   "lastOpenFiles": [
+    "_drafts/post-draft.md",
+    "_posts/Thought Reincarnation.md",
     "_pages/about.md",
     "_teaching/2014-spring-teaching-1.md",
     "README.md",
@@ -168,7 +170,6 @@
     "The Sacred Magic of Abramelin the Mage/The-Sacred-Magic-of-Abramelin-the-Mage-Book-1.pdf",
     "_pages/non-menu-page.md",
     "_pages/publications.md",
-    "_drafts/post-draft.md",
     "_pages/terms.md",
     "_pages/404.md",
     "72/72 Angels.md",
