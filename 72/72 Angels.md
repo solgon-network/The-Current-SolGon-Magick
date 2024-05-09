@@ -1,6 +1,10 @@
-%YAML 1.1
 ---
-# solgonpr_sgnmain.celestial_beings
+title: Portfolio item number 1
+excerpt: The 72 angels of the Shem Hamephorash
+collection: Angels
+---
+
+solgonpr_sgnmain.celestial_beings
 -
   id: 1
   name: "Vehuiah"

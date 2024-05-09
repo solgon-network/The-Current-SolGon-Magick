@@ -1,7 +1,7 @@
 [
   "dataview",
   "templater-obsidian",
-  "obsidian-git",
   "quickadd",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-git"
 ]
