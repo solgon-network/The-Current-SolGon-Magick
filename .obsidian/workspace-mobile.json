@@ -27,8 +27,12 @@
             "id": "6b1ea47b1a7225f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_portfolio/portfolio-1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -37,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "72/72 Angels.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_pages/about.md",
+            "file": "72/72 Angels.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_pages/about.md",
+            "file": "72/72 Angels.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_pages/about.md"
+            "file": "72/72 Angels.md"
           }
         }
       }
@@ -159,9 +163,12 @@
   },
   "active": "27a412f3f6c84414",
   "lastOpenFiles": [
+    "_portfolio/portfolio-1.md",
+    "72/72 Angels.md",
+    "_pages/archive-layout-with-content.md",
+    "_pages/about.md",
     "_drafts/post-draft.md",
     "_posts/Thought Reincarnation.md",
-    "_pages/about.md",
     "_teaching/2014-spring-teaching-1.md",
     "README.md",
     "Untitled.md",
@@ -172,7 +179,6 @@
     "_pages/publications.md",
     "_pages/terms.md",
     "_pages/404.md",
-    "72/72 Angels.md",
     "/The Holy Bible/The-Holy-Bible-King-James-Version.pdf",
     "/README.md",
     "/72/72 Angels.md",
@@ -193,8 +199,6 @@
     "_publications/2015-10-01-paper-title-number-3.md",
     "_publications/2010-10-01-paper-title-number-2.md",
     "_publications/2009-10-01-paper-title-number-1.md",
-    "_posts/2199-01-01-future-post.md",
-    "_posts/2015-08-14-blog-post-4.md",
     "images/500x300.png",
     "images/3953273590_704e3899d5_m.jpg",
     "images/bio-photo-2.jpg",
