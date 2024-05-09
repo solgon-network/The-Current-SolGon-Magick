@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rituals/The Qabilistic.md",
+                "file": "_teaching/2014-spring-teaching-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Rituals/The Qabilistic.md",
+            "file": "_teaching/2014-spring-teaching-1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Rituals/The Qabilistic.md",
+            "file": "_teaching/2014-spring-teaching-1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Rituals/The Qabilistic.md"
+            "file": "_teaching/2014-spring-teaching-1.md"
           }
         }
       }
@@ -154,22 +154,29 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "dbfolder:Create a new database table": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "27a412f3f6c84414",
   "lastOpenFiles": [
-    "72/72 Angels.md",
     "README.md",
+    "_pages/about.md",
+    "Untitled.md",
+    "The Sacred Magic of Abramelin the Mage/The-Sacred-Magic-of-Abramelin-the-Mage-Book-2.pdf",
+    "The Sacred Magic of Abramelin the Mage/The-Sacred-Magic-of-Abramelin-the-Mage-Book-3.pdf",
+    "The Sacred Magic of Abramelin the Mage/The-Sacred-Magic-of-Abramelin-the-Mage-Book-1.pdf",
+    "_pages/non-menu-page.md",
+    "_pages/publications.md",
+    "_drafts/post-draft.md",
+    "_pages/terms.md",
+    "_pages/404.md",
+    "72/72 Angels.md",
     "/The Holy Bible/The-Holy-Bible-King-James-Version.pdf",
     "/README.md",
     "/72/72 Angels.md",
     "/_data/authors.yml",
     "/_config.yml",
     "72/Untitled database.md",
-    "Untitled.md",
-    "_drafts/post-draft.md",
     "Rituals/The Qabilistic.md",
     "talkmap.py",
     "talkmap.ipynb",
@@ -181,20 +188,12 @@
     "_talks/2013-03-01-tutorial-1.md",
     "_talks/2012-03-01-talk-1.md",
     "_sass/vendor/susy/susy/su/_validation.scss",
-    "_sass/vendor/susy/susy/su/_utilities.scss",
-    "_sass/vendor/susy/susy/su/_settings.scss",
-    "_sass/vendor/susy/susy/su/_grid.scss",
     "_publications/2024-02-17-paper-title-number-4.md",
     "_publications/2015-10-01-paper-title-number-3.md",
     "_publications/2010-10-01-paper-title-number-2.md",
     "_publications/2009-10-01-paper-title-number-1.md",
     "_posts/2199-01-01-future-post.md",
     "_posts/2015-08-14-blog-post-4.md",
-    "_posts/2014-08-14-blog-post-3.md",
-    "_posts/2013-08-14-blog-post-2.md",
-    "_posts/2012-08-14-blog-post-1.md",
-    "_portfolio/portfolio-1.md",
-    "_pages/terms.md",
     "images/500x300.png",
     "images/3953273590_704e3899d5_m.jpg",
     "images/bio-photo-2.jpg",
