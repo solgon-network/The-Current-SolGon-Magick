@@ -64,3 +64,12 @@ filters:
   enabled: false
   conditions:
 ```
+
+table of correspondance
+
+1. kedy id
+2. Hebrew Names 
+3. English trans. of 2.
+4. Elements with there plantary rulers
+5. general attrib. of the Tarot
+6. 
