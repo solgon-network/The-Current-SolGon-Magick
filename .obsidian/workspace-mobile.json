@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "72/Untitled database.md",
+                "file": "Rituals/The Qabilistic.md",
                 "mode": "source",
                 "source": true
               }
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "72/Untitled database.md",
+            "file": "Rituals/The Qabilistic.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "72/Untitled database.md",
+            "file": "Rituals/The Qabilistic.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,7 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "72/Untitled database.md"
+            "file": "Rituals/The Qabilistic.md"
           }
         }
       }
@@ -163,6 +163,7 @@
   },
   "active": "27a412f3f6c84414",
   "lastOpenFiles": [
+    "72/Untitled database.md",
     "_portfolio/portfolio-1.md",
     "72/72 Angels.md",
     "_pages/archive-layout-with-content.md",
@@ -184,7 +185,6 @@
     "/72/72 Angels.md",
     "/_data/authors.yml",
     "/_config.yml",
-    "72/Untitled database.md",
     "Rituals/The Qabilistic.md",
     "talkmap.py",
     "talkmap.ipynb",
