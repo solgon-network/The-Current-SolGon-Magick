@@ -1,42 +1,71 @@
+1. **Unity/Oneness**:
+   - Represents the ultimate source of existence, often referred to as the divine, God, or the Absolute.
+   - Signifies the fundamental unity underlying all diversity in the universe.
+   - Emphasizes independence and self-sufficiency, as it stands alone and encompasses all within itself.
+   - Symbolizes the beginning of creation and the origin of all things.
 
-# Academic Pages
+2. **Duality**:
+   - Reflects the concept of opposites and polarities, such as light and dark, hot and cold, or positive and negative.
+   - Represents the idea of balance and harmony through the interaction of complementary forces.
+   - Symbolizes relationships, partnerships, and the union of opposites necessary for creation and existence.
+   - Emphasizes the interconnectedness of all things and the need for harmony between conflicting elements.
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+3. **Triad/Trinity**:
+   - Signifies the union of opposites to form a higher unity.
+   - Represents synthesis, integration, and the resolution of dualities into a harmonious whole.
+   - Often associated with spiritual principles such as mind, body, and spirit or the divine trinity (Father, Son, Holy Spirit).
+   - Symbolizes creativity, growth, and the unfolding of potential through the interaction of opposing forces.
 
-Academic Pages is a Github Pages template for academic websites.
+4. **Stability/Foundation**:
+   - Represents the material world, physical reality, and the structures that provide stability and order.
+   - Symbolizes the four elements (earth, air, fire, water) and their corresponding qualities.
+   - Emphasizes the importance of a solid foundation for building and sustaining structures in both the physical and metaphysical realms.
+   - Associated with the four directions, seasons, and stages of life.
 
+5. **Change/Transformation**:
+   - Signifies the dynamic nature of existence and the inevitability of change.
+   - Represents freedom, versatility, and adaptability in response to changing circumstances.
+   - Symbolizes growth, evolution, and the transformative process of moving from one state to another.
+   - Emphasizes the need to embrace change as a natural part of life and to remain open to new experiences and opportunities.
 
-# Getting Started
+6. **Balance/Harmony**:
+   - Reflects the concept of equilibrium and harmony between opposing forces.
+   - Symbolizes beauty, love, and compassion in relationships and interactions.
+   - Represents the integration of mind, body, and spirit to achieve inner peace and wholeness.
+   - Emphasizes the importance of finding balance in all aspects of life, including work and leisure, activity and rest.
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+7. **Spirituality/Mystery**:
+   - Signifies spiritual awakening, intuition, and inner wisdom.
+   - Represents the search for deeper meaning and understanding beyond the material world.
+   - Symbolizes mystery, secrecy, and hidden knowledge waiting to be discovered.
+   - Associated with mystical experiences, spiritual insights, and divine guidance.
 
-See more info at https://academicpages.github.io/
+8. **Infinity/Cosmic Order**:
+   - Represents the infinite nature of existence and the eternal cycles of birth, death, and rebirth.
+   - Signifies abundance, prosperity, and the fulfillment of desires within the cosmic order.
+   - Symbolizes balance and justice in the universe, as well as the law of cause and effect (karma).
+   - Emphasizes the interconnectedness of all things and the cosmic harmony that governs the universe.
 
-## Running Locally
+9. **Completion/Wholeness**:
+   - Reflects the culmination of a cycle or journey, indicating fulfillment and accomplishment.
+   - Signifies wholeness, unity, and integration of all aspects of the self.
+   - Represents endings and resolutions, as well as the beginning of a new cycle or phase.
+   - Symbolizes spiritual enlightenment and the attainment of higher consciousness.
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+10. **Manifestation/Divine Order**:
+    - Represents the manifestation of divine will and the alignment of personal intentions with universal law.
+    - Signifies the realization of spiritual goals and the materialization of desires through focused intention and action.
+    - Symbolizes divine perfection and the orderly progression of the universe according to cosmic principles.
+    - Emphasizes the power of creation and the ability to co-create reality with the divine.
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+11. **Spiritual Awakening/Enlightenment**:
+    - Signifies spiritual awakening, enlightenment, and the expansion of consciousness beyond ordinary perception.
+    - Represents intuition, insight, and spiritual guidance from higher realms of existence.
+    - Symbolizes the journey of self-discovery and the pursuit of truth and wisdom.
+    - Emphasizes the importance of spiritual growth and the realization of one's true nature as a spiritual being.
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essentials gcc make`
-
-# Maintenance 
-
-Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
-
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+12. **Completion/Cosmic Harmony**:
+    - Reflects completion and fulfillment on a cosmic scale, indicating harmony and balance in the universe.
+    - Signifies the fulfillment of divine purpose and the alignment of individual consciousness with cosmic consciousness.
+    - Represents cosmic cycles and the eternal flow of time and existence.
+    - Symbolizes divine perfection and the unity of all creation within the cosmic whole.
